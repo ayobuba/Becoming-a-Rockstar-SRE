@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Prometheus - create a namespace for monitoring
 kubectl create namespace monitoring
 
